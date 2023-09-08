@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Fernando, Fullstack developer from <img src="https://i.pinimg.com/564x/46/97/ad/4697adfeae5e471cf9c4f5438019607b.jpg" width="13"/> <b>MG, Brazil</b>. </p>
+<p>Welcome to my page! </br> I'm Fernando, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>MG, Brazil</b>. </p>
 
 - 🌱 I’m currently learning **NestJS**
 
