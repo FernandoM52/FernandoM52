@@ -6,14 +6,14 @@
 <p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my skills.</p>
 
 <h3 align="center">🌱 I’m currently learning</h3>
-<p>
+<p align="center">
   
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
   
 <h3 align="center">💻 Main technologies</h3>
-<p>
+<p align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="center">🌱 Others tools</h3>
-<p>
+<p align="center">
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -36,7 +36,7 @@
 </p>
 
 <h3 align="center">📚 I'm interested to learn</h3>
-<p>
+<p align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -48,7 +48,7 @@
 </p>
 
 <h3 align="left">📫 Contact me</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-perfil" height="30" width="40" /></a>
 <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 </p>
