@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! I'm Fernando, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>MG, Brazil</b>.</p>
 
-<p>In 2019, I joined an Industrial Automation course that brought me into the world of programming logic, where I was deputy leader of my class and leader in some group projects. During this journey, I was starting my professional career in an IT company as an apprentice and since then my passion for technology has only grown.</p>
+<p>In 2019, I joined an Industrial Automation course that brought me into the world of programming logic, where I was deputy leader of my class and leader in some group projects. During this journey, I was starting my professional career in an IT company as an apprentice and since then my passion for technology has only grown.</br> </p>
 
 <p>Now, I'm a full stack web developer, problem solving lover and always looking to learn new things and improve my skills</p>
 
