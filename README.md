@@ -79,6 +79,10 @@
 
 ---
 
+<a href="https://github.com/FernandoM52/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoM52" />
+</a>
+
 <p>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoM52&size_weight=0.5&count_weight=0.5)
