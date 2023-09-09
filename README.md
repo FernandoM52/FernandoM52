@@ -15,7 +15,7 @@
 
 <h3>📫 Contact me</h3>
 <p>
-<a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img alt="Linkedin-FernandoM52-profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fernando-martins-perfil" target="_blank"><img alt="Linkedin-FernandoM52-profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-profile" height="30" width="40" /></a>
 <a href="mailto:fernandomartins.contato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 <a href="mailto:fernandoaugusto2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
