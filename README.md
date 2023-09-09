@@ -9,10 +9,10 @@
 
 - <h3>🌱 I’m currently learning</h3>
 
-<p>
+
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-</p>
+
 
 - 📫 How to reach me **fernandomartins.contato@outlook.com**
 - ⚡ Fun fact **Outside the code, I'm a fan of online games, basketball lover (I practice and play in championships in my city) and I like going to the gym. And in my spare time I try to learn to play the guitar.**
