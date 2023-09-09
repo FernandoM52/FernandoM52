@@ -13,6 +13,11 @@
 - :guitar: Practice guitar and I have interested in learning piano.
 - :tv: Like to see series and animes.
 
+<h3>📫 Contact me</h3>
+<p>
+<a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-perfil" height="30" width="40" /></a>
+</p>
+
 ---
 
 <h3>🌱 I’m currently learning</h3>
@@ -71,13 +76,6 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 </p>
-
-<h3>📫 Contact me</h3>
-<p>
-<a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-perfil" height="30" width="40" /></a>
-</p>
-
----
   
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=radical"/>
