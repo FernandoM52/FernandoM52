@@ -79,6 +79,8 @@
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/apiFernandoM52anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fernandom52anuraghazra&size_weight=0.5&count_weight=0.5)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/apifernandom52anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandom52&" alt="fernandom52" /></p>
