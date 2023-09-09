@@ -52,6 +52,7 @@
 <h3>📫 Contact me</h3>
 <p>
 <a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-perfil" height="30" width="40" /></a>
+  
 <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 </p>
 ⚡ Fun fact **Outside the code, I'm a fan of online games, basketball lover (I practice and play in championships in my city) and I like going to the gym. And in my spare time I try to learn to play the guitar.**
