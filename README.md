@@ -8,7 +8,7 @@
 - <h3>💻 Languages</h3>
 
 
-- <h3>🌱 I’m currently learning</h3>
+<h3>🌱 I’m currently learning</h3>
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
