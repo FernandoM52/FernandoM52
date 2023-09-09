@@ -11,7 +11,7 @@
 - :basketball: Play basketball and compete in some championships in my city.
 - :weight_lifting: Like going to the gym to maintain a healthy lifestyle and clear my mind.
 - :guitar: Practice guitar and I have interested in learning piano.
-- :tv: Like to see series and Animes.
+- :tv: Like to see series and animes.
 
 ---
 
@@ -79,5 +79,6 @@
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?FernandoM52=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/apiFernandoM52anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandom52&" alt="fernandom52" /></p>
