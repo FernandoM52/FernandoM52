@@ -5,7 +5,7 @@
 
 <p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my soft skills day after day.</p>
 
-------------
+---
 
 <h3>🌱 I’m currently learning</h3>
 <p align="center">
