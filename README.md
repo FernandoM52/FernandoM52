@@ -4,7 +4,9 @@
 <p>In 2019, I joined an Industrial Automation course that brought me into the world of programming logic, where I was deputy leader of my class and leader in some group projects. During this journey, I was starting my professional career in an IT company as an apprentice and since then my passion for technology has only grown.</br> </p>
 
 <p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my skills.</p>
+
 ------------
+
 <h3>🌱 I’m currently learning</h3>
 <p align="center">
   
