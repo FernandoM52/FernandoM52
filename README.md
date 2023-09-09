@@ -79,7 +79,5 @@
 
 ---
 
-<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoM52&layout=compact&langs_count=8&card_width=320">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=dark&show_icons=true)
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=radical"/>
+
