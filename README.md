@@ -5,11 +5,12 @@
 
 <p>Now, I'm a full stack web developer, code and problem solving lover, and always looking to learn new things and improve my skills.</p>
 
-<h3>Languages</h3>
+- <h3>💻 Languages</h3>
+
 
 - <h3>🌱 I’m currently learning</h3>
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 - 📫 How to reach me **fernandomartins.contato@outlook.com**
