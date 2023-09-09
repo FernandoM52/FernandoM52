@@ -5,7 +5,9 @@
 
 <p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my soft skills day after day.</p>
 
-<h3>🕹 What I like to do</h3>
+<h3>Outsie the code</h3>
+- :joystick: I love playing every kind of game.
+- 
 
 ---
 
