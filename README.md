@@ -80,7 +80,7 @@
 ---
 
 <a href="https://github.com/FernandoM52">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoM52&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FernandoM52&show_icons=true&theme=radical" />
 
 </a>
 <a href="https://github.com/FernandoM52">
