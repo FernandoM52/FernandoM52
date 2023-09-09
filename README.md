@@ -22,15 +22,15 @@
 
 ---
 
-<h3 align="center">🌱 I’m currently learning</h3>
-<div align="center">
+<h3 >🌱 I’m currently learning</h3>
+<div >
   
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </div>
   
-<h3 align="center">💻 Main technologies</h3>
-<div align="center">
+<h3 >💻 Main technologies</h3>
+<div >
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,8 +45,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 </div>
 
-<h3 align="center">:wrench: Others tools</h3>
-<div align="center">
+<h3 >:wrench: Others tools</h3>
+<div >
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -66,8 +66,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
-<h3 align="center">📚 I'm interested to learn</h3>
-<div align="center">
+<h3 >📚 I'm interested to learn</h3>
+<div >
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -79,7 +79,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 </div>
   
-<p align="center">
-  <img align="center" alt="MostLangs-FernandoM52" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=radical"/>
+<p >
+  <img  alt="MostLangs-FernandoM52" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=radical"/>
 </p>
 
