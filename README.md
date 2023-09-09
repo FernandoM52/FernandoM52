@@ -3,7 +3,7 @@
 
 <p>In 2019, I joined an Industrial Automation course that brought me into the world of programming logic, where I was deputy leader of my class and leader in some group projects. During this journey, I was starting my professional career in an IT company as an apprentice and since then my passion for technology has only grown.</br> </p>
 
-<p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my skills.</p>
+<p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my soft skills day after day.</p>
 
 ------------
 
@@ -13,6 +13,8 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
+
+  ------------
   
 <h3 >💻 Main technologies</h3>
 <p>
@@ -24,6 +26,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
+
+------------
 
 <h3>🌱 Others tools</h3>
 <p >
