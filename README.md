@@ -5,6 +5,8 @@
 
 <p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my soft skills day after day.</p>
 
+<h3>🕹 What I like to do</h3>
+
 ---
 
 <h3>🌱 I’m currently learning</h3>
@@ -30,7 +32,7 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 </p>
 
-<h3>🌱 Others tools</h3>
+<h3>:wrench: Others tools</h3>
 <p >
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -70,6 +72,6 @@
 <a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-perfil" height="30" width="40" /></a>
 </p>
 
-⚡ Fun fact **Outside the code, I'm a fan of online games, basketball lover (I practice and play in championships in my city) and I like going to the gym. And in my spare time I try to learn to play the guitar.**
+⚡ Fun fact **Outside the code,, basketball lover (I practice and play in championships in my city) and I like going to the gym. And in my spare time I try to learn to play the guitar.**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandom52&" alt="fernandom52" /></p>
