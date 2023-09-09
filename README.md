@@ -14,23 +14,23 @@
 - :tv: Like to see series and animes.
 
 <h3>📫 Contact me</h3>
-<p>
+<div>
 <a href="https://linkedin.com/in/fernando-martins-perfil" target="_blank"><img alt="Linkedin-FernandoM52-profile" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-profile" height="30" width="40" /></a>
 <a href="mailto:fernandomartins.contato@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
 <a href="mailto:fernandoaugusto2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
-<h3>🌱 I’m currently learning</h3>
-<p>
+<h3 align="center">🌱 I’m currently learning</h3>
+<div align="center">
   
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-</p>
+</div>
   
-<h3 >💻 Main technologies</h3>
-<p>
+<h3 align="center">💻 Main technologies</h3>
+<div align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,10 +43,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-</p>
+</div>
 
-<h3>:wrench: Others tools</h3>
-<p>
+<h3 align="center">:wrench: Others tools</h3>
+<div align="center">
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -64,7 +64,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-</p>
+</div>
 
 <h3>📚 I'm interested to learn</h3>
 <p>
