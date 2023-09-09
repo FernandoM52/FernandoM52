@@ -77,6 +77,4 @@
 <a href="https://linkedin.com/in/fernando-martins-perfil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernando-martins-perfil" height="30" width="40" /></a>
 </p>
 
-⚡ Fun fact **Outside the code,, basketball lover (I practice and play in championships in my city) and I like going to the gym. And in my spare time I try to learn to play the guitar.**
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandom52&" alt="fernandom52" /></p>
