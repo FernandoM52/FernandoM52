@@ -6,10 +6,12 @@
 <p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my soft skills day after day.</p>
 
 <h3>Outsie the code</h3>
-- :joystick: I love playing every kind of game.
-- Teste
-- TEste 2
-- Teste 3
+
+- :joystick: Love playing every kind of game.
+- :basketball: Play basketball and compete in some championships in my city.
+- :weight_lifting: Like going to the gym to maintain a healthy lifestyle and clear my mind.
+- :guitar: Practice guitar and I have interested in learning piano.
+- :tv: Like to see series and Animes.
 
 ---
 
