@@ -5,7 +5,7 @@
 
 <p>Now, I'm a full stack web developer, code and problem solving lover, and always looking to learn new things and improve my skills.</p>
 
-- 🌱 I’m currently learning **Docker** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/>
+- 🌱 I’m currently learning **Docker** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="15"/>
 
 - 📫 How to reach me **fernandomartins.contato@outlook.com**
 
