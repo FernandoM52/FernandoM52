@@ -3,16 +3,16 @@
 
 <p>In 2019, I joined an Industrial Automation course that brought me into the world of programming logic, where I was deputy leader of my class and leader in some group projects. During this journey, I was starting my professional career in an IT company as an apprentice and since then my passion for technology has only grown.</br> </p>
 
-<p>Now, I'm a full stack web developer, code and problem solving lover, and always looking to learn new things and improve my skills.</p>
+<p>Now, I'm a full stack web developer, code and problem solving lover, always looking to learn new things and seeking to improve my skills.</p>
 
-<h3>🌱 I’m currently learning</h3>
+<h3 align="center">🌱 I’m currently learning</h3>
 <p>
   
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
   
-<h3>💻 Main technologies</h3>
+<h3 align="center">💻 Main technologies</h3>
 <p>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </p>
 
-<h3>🌱 Others tools</h3>
+<h3 align="center">🌱 Others tools</h3>
 <p>
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -35,7 +35,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </p>
 
-<h3>📚 I'm interested to learn</h3>
+<h3 align="center">📚 I'm interested to learn</h3>
 <p>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
