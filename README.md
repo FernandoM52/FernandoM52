@@ -7,11 +7,11 @@
 
 <h3>Outside the code</h3>
 
-- :joystick: Love playing every kind of game.
-- :basketball: Play basketball and compete in some championships in my city.
-- :weight_lifting: Like to go to the gym to maintain a healthy lifestyle and clear my mind.
-- :guitar: Practice guitar and I have interested in learning piano.
-- :tv: Like to see series and animes.
+- :joystick: Love playing every kind of game
+- 🥋 Jiu-jitsu fighter
+- :weight_lifting: Like to go to the gym to maintain a healthy lifestyle and clear my mind
+- :guitar: Practice guitar and I have interested in learning piano
+- :tv: Like to see series and animes
 
 <h3>📫 Contact me</h3>
 <div>
